@@ -9,6 +9,21 @@
   "installed":false,
   "apk":"https://github.com/sang189hy/app/releases/download/1.0/TPTV2.4.apk"},
   
+{"name":"TV365",
+  "version":"3.0",
+  "installed":false,
+  "apk":"https://github.com/sang189hy/app/releases/download/1.0/TV365.apk"},
+
+{"name":"GetOut",
+  "version":"2.0",
+  "installed":false,
+  "apk":"https://github.com/sang189hy/app/releases/download/1.0/GetOut20.apk"},
+
+{"name":"Chợ Phim",
+  "version":"1.0",
+  "installed":false,
+  "apk":"https://github.com/sang189hy/app/releases/download/1.0/chophim.apk"},
+  
 {"name":"app",
   "package":"com.nghenhin24h",
   "version":"2.4",
