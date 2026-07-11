@@ -5,7 +5,7 @@ function moveFocus(dir){
  items[i].focus();
 }
 fetch('apps.json').then(r=>r.json()).then(d=>{
-count.innerText='Có '+d.length+' ứng dụng.';
+count.innerText='Có '+d.length+' ứng dụng. Kéo chấm đỏ đến chữ "tải xuống" nhấn ok và cài đặt';
 list.innerHTML=d.map(a=>`<div class='card'><div class='left'><h2>${a.name}</h2><p>${a.package}</p></div><div>${a.installed?`<button>Đã mới nhất</button><button>Gỡ cài</button>`:`<button onclick="location.href='${a.apk}'">Tải xuống</button>`}</div></div>`).join('');
 document.querySelectorAll('button').forEach(b=>b.tabIndex=0);
 document.querySelector('button').focus();
