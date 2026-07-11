@@ -4,22 +4,22 @@
   "installed":false,
   "apk":"https://github.com/sang189hy/app/releases/download/1.0/YouTube_1.0.8.apk"},
   
-{"name":"TPTV","package":"com.nghenhin24h.vietplaytv",
+{"name":"TPTV","package":"com.tptv.tv",
   "version":"2.4",
   "installed":false,
   "apk":"https://github.com/sang189hy/app/releases/download/1.0/TPTV2.4.apk"},
   
-{"name":"TV365",
+{"name":"TV365","package":"com.tvonline.hdtv",
   "version":"3.0",
   "installed":false,
   "apk":"https://github.com/sang189hy/app/releases/download/1.0/TV365.apk"},
 
-{"name":"GetOut",
+{"name":"GetOut","package":"con.linor.vn.getout",
   "version":"2.0",
   "installed":false,
   "apk":"https://github.com/sang189hy/app/releases/download/1.0/GetOut20.apk"},
 
-{"name":"Chợ Phim",
+{"name":"Chợ Phim","package":"con.chophim.tv",
   "version":"1.0",
   "installed":false,
   "apk":"https://github.com/sang189hy/app/releases/download/1.0/chophim.apk"},
